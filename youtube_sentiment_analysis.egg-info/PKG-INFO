@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: youtube-sentiment-analysis
+Version: 0.1.1
+Author: Farhan fayaz
+Author-email: farhanfiaz79@gmail.com.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib[pyplot]
+Requires-Dist: seaborn
+Requires-Dist: nltk
+Requires-Dist: ipykernel
+Requires-Dist: scikit-learn
+Requires-Dist: dvc
+Requires-Dist: mlflow
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
