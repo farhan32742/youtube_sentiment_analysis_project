@@ -1,0 +1,10 @@
+artifact_location: file:///d:/DATA%20SCIENCE/youtube_sentiment_analysis/experiments/mlruns/499116000483968163/models/m-ff45574725a94c838a97fc2c18ac28dd/artifacts
+creation_timestamp: 1750640105163
+experiment_id: '499116000483968163'
+last_updated_timestamp: 1750640136621
+model_id: m-ff45574725a94c838a97fc2c18ac28dd
+model_type: null
+name: random_forest_model
+source_run_id: a7207640df6d4fb38178fcdb9fa6c173
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/DATA%20SCIENCE/youtube_sentiment_analysis/experiments/mlruns/110439762064355287/83fd18415e8a4e61a6f7f4987fde70a2/artifacts
+end_time: 1750643717141
+entry_point_name: ''
+experiment_id: '110439762064355287'
+lifecycle_stage: active
+run_id: 83fd18415e8a4e61a6f7f4987fde70a2
+run_name: SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750642279582
+status: 3
+tags: []
+user_id: farhanfiaz79
