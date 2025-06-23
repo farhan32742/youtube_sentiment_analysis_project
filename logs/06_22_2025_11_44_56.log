@@ -1,0 +1,7 @@
+[2025-06-22 11:46:05,978] 22 root - INFO - data ingestion started
+[2025-06-22 11:46:06,086] 27 root - INFO - reading a data frame
+[2025-06-22 11:46:06,228] 32 root - INFO -  i have saved the raw dataset in artifact folder
+[2025-06-22 11:46:06,228] 34 root - INFO - here i am performing train test split
+[2025-06-22 11:46:06,228] 37 root - INFO - train test split completed
+[2025-06-22 11:46:06,497] 83 root - INFO - Read train and test text data completed
+[2025-06-22 11:46:08,616] 115 root - INFO - Error in text data transformation

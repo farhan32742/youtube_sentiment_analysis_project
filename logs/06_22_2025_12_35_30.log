@@ -1,0 +1,13 @@
+[2025-06-22 12:35:31,640] 22 root - INFO - data ingestion started
+[2025-06-22 12:35:31,737] 27 root - INFO - reading a data frame
+[2025-06-22 12:35:31,878] 32 root - INFO -  i have saved the raw dataset in artifact folder
+[2025-06-22 12:35:31,878] 34 root - INFO - here i am performing train test split
+[2025-06-22 12:35:31,878] 37 root - INFO - train test split completed
+[2025-06-22 12:35:32,161] 83 root - INFO - Read train and test text data completed
+[2025-06-22 12:35:39,514] 113 root - INFO - Text preprocessing pickle file saved
+[2025-06-22 12:35:39,514] 27 root - INFO - Training classification models on text features...
+[2025-06-22 12:35:40,351] 42 root - INFO - LogisticRegression Accuracy: 0.8403070602227268
+[2025-06-22 12:35:40,351] 42 root - INFO - MultinomialNB Accuracy: 0.6428803113850146
+[2025-06-22 12:36:27,193] 42 root - INFO - RandomForestClassifier Accuracy: 0.8032219699426965
+[2025-06-22 12:52:46,501] 42 root - INFO - SVM Accuracy: 0.8328467942480268
+[2025-06-22 12:52:46,501] 49 root - INFO - \u2705 Best Model: LogisticRegression, Accuracy: 0.8403070602227268

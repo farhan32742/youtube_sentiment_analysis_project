@@ -1,0 +1,7 @@
+[2025-06-22 12:05:50,366] 22 root - INFO - data ingestion started
+[2025-06-22 12:05:50,462] 27 root - INFO - reading a data frame
+[2025-06-22 12:05:50,593] 32 root - INFO -  i have saved the raw dataset in artifact folder
+[2025-06-22 12:05:50,593] 34 root - INFO - here i am performing train test split
+[2025-06-22 12:05:50,609] 37 root - INFO - train test split completed
+[2025-06-22 12:05:50,877] 83 root - INFO - Read train and test text data completed
+[2025-06-22 12:05:58,060] 108 root - INFO - Text preprocessing pickle file saved
