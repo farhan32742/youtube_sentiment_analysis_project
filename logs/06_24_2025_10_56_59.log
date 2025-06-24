@@ -1,0 +1,13 @@
+[2025-06-24 10:57:06,504] 49 googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+[2025-06-24 10:57:06,520] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-24 10:57:06,520] 97 werkzeug - INFO -  * Debugger PIN: 141-603-105
+[2025-06-24 10:57:06,573] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:06] "GET / HTTP/1.1" 200 -
+[2025-06-24 10:57:08,041] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-06-24 10:57:44,184] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:44] "OPTIONS /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-24 10:57:46,946] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:46] "POST /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-24 10:57:46,954] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:46] "OPTIONS /generate_chart HTTP/1.1" 200 -
+[2025-06-24 10:57:48,138] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:48] "POST /generate_chart HTTP/1.1" 200 -
+[2025-06-24 10:57:48,143] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:48] "OPTIONS /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-24 10:57:48,710] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:48] "POST /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-24 10:57:48,718] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:48] "OPTIONS /generate_wordcloud HTTP/1.1" 200 -
+[2025-06-24 10:57:49,610] 97 werkzeug - INFO - 127.0.0.1 - - [24/Jun/2025 10:57:49] "POST /generate_wordcloud HTTP/1.1" 200 -
