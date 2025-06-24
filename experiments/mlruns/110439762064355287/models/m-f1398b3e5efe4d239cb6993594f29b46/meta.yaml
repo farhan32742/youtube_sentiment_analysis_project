@@ -1,0 +1,10 @@
+artifact_location: file:///d:/DATA%20SCIENCE/youtube_sentiment_analysis/experiments/mlruns/110439762064355287/models/m-f1398b3e5efe4d239cb6993594f29b46/artifacts
+creation_timestamp: 1750645996570
+experiment_id: '110439762064355287'
+last_updated_timestamp: 1750646001992
+model_id: m-f1398b3e5efe4d239cb6993594f29b46
+model_type: null
+name: model
+source_run_id: 7aaab5f37f324c4d867061a66ff0ba47
+status: 2
+status_message: null

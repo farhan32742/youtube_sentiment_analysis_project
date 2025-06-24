@@ -1,0 +1,10 @@
+[2025-06-23 16:38:09,744] 49 googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+[2025-06-23 16:38:09,781] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-23 16:38:09,781] 97 werkzeug - INFO -  * Debugger PIN: 141-603-105
+[2025-06-23 16:38:35,584] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 16:38:35] "GET / HTTP/1.1" 200 -
+[2025-06-23 16:38:42,593] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 16:38:42] "OPTIONS /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 16:38:45,380] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 16:38:45] "POST /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 16:38:45,389] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 16:38:45] "[33mOPTIONS /generate_chart HTTP/1.1[0m" 404 -
+[2025-06-23 16:38:45,709] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 16:38:45] "[33mOPTIONS /generate_trend_graph HTTP/1.1[0m" 404 -
+[2025-06-23 16:38:45,966] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 16:38:45] "[33mOPTIONS /generate_wordcloud HTTP/1.1[0m" 404 -
+[2025-06-23 16:42:19,119] 97 werkzeug - INFO -  * Detected change in 'D:\\DATA SCIENCE\\youtube_sentiment_analysis\\app1.py', reloading

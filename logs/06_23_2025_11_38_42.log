@@ -1,0 +1,4 @@
+[2025-06-23 11:39:41,444] 49 googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+[2025-06-23 11:39:41,487] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-23 11:39:41,487] 97 werkzeug - INFO -  * Debugger PIN: 141-603-105
+[2025-06-23 11:40:40,429] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 11:40:40] "GET / HTTP/1.1" 200 -

@@ -1,0 +1,28 @@
+[2025-06-23 19:17:22,171] 49 googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+[2025-06-23 19:17:22,188] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-06-23 19:17:22,190] 97 werkzeug - INFO -  * Debugger PIN: 141-603-105
+[2025-06-23 19:17:31,331] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:17:31] "GET / HTTP/1.1" 200 -
+[2025-06-23 19:21:44,804] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:44] "OPTIONS /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 19:21:48,672] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:48] "POST /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 19:21:48,677] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:48] "OPTIONS /generate_chart HTTP/1.1" 200 -
+[2025-06-23 19:21:49,341] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:49] "POST /generate_chart HTTP/1.1" 200 -
+[2025-06-23 19:21:49,347] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:49] "OPTIONS /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-23 19:21:50,118] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:50] "POST /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-23 19:21:50,127] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:50] "OPTIONS /generate_wordcloud HTTP/1.1" 200 -
+[2025-06-23 19:21:51,510] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:21:51] "POST /generate_wordcloud HTTP/1.1" 200 -
+[2025-06-23 19:22:54,353] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:54] "OPTIONS /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 19:22:54,661] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:54] "POST /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 19:22:54,669] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:54] "OPTIONS /generate_chart HTTP/1.1" 200 -
+[2025-06-23 19:22:55,169] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:55] "POST /generate_chart HTTP/1.1" 200 -
+[2025-06-23 19:22:55,251] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:55] "OPTIONS /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-23 19:22:55,869] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:55] "POST /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-23 19:22:55,875] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:55] "OPTIONS /generate_wordcloud HTTP/1.1" 200 -
+[2025-06-23 19:22:57,259] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:22:57] "POST /generate_wordcloud HTTP/1.1" 200 -
+[2025-06-23 19:32:22,176] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:22] "OPTIONS /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 19:32:22,501] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:22] "POST /predict_with_timestamps HTTP/1.1" 200 -
+[2025-06-23 19:32:22,505] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:22] "OPTIONS /generate_chart HTTP/1.1" 200 -
+[2025-06-23 19:32:22,986] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:22] "POST /generate_chart HTTP/1.1" 200 -
+[2025-06-23 19:32:23,073] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:23] "OPTIONS /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-23 19:32:23,591] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:23] "POST /generate_trend_graph HTTP/1.1" 200 -
+[2025-06-23 19:32:23,597] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:23] "OPTIONS /generate_wordcloud HTTP/1.1" 200 -
+[2025-06-23 19:32:24,593] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jun/2025 19:32:24] "POST /generate_wordcloud HTTP/1.1" 200 -
